@@ -6,7 +6,7 @@ while True:
  except ValueError:
    print(f'O valor Inválido, digite Novamente')
  else:
-    break
+     break
 
 while True:
   try:
